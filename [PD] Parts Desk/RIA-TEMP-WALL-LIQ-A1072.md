@@ -1,0 +1,112 @@
+---
+title: Wall-Mounted Liquid-in-Glass Thermometer
+manufacturer: Rhythm Industries, Inc.
+location: Batavia, Ohio, U.S.A.
+category: Temperature Measurement
+archive_id: RIA-TEMP-WALL-LIQ-001
+part_number:
+  value: null
+  status: unknown
+confidence: medium
+---
+
+# Wall-Mounted Liquid-in-Glass Thermometer
+
+<img src="RIA-TEMP-WALL-LIQ-A1072.jpg" alt="Photo of Wall-Mounted Liquid-in-Glass Thermometer (IMG_7565.HEIC)" style="height:6in" />
+
+## Overview
+
+Wall-mounted liquid-in-glass thermometer manufactured by **Rhythm Industries, Inc.** in Batavia, Ohio.  
+Dual Fahrenheit and Celsius scale. Rectangular plastic housing with printed dial and glass thermometer tube.
+
+No confirmed customer-facing part number has been identified for this item.
+
+---
+
+## Known Markings
+
+- **"RHYTHM INDUSTRIES, INC."**
+- **"BATAVIA, OHIO U.S.A."**
+- **"A1072"** (printed on dial, lower right)
+
+---
+
+## Notes on Marking “A1072”
+
+The marking **A1072** is present on the printed dial.  
+Its exact significance is **unknown**.
+
+It may represent one of the following:
+
+- Dial artwork or print run identifier  
+- Label supplier or external vendor part number  
+- Internal reference or assembly code  
+
+There is no evidence that **A1072** corresponds to a sellable or customer-facing product part number.
+
+This ambiguity is preserved intentionally.
+
+---
+
+## Construction
+
+Observed construction suggests assembly from multiple stocked components:
+
+- Injection-molded plastic housing
+- Printed dial / label
+- Liquid-filled glass thermometer tube (likely alcohol-based, not confirmed)
+
+---
+
+## Calibration
+
+Calibration was likely performed during assembly.
+
+A visible reference mark on the thermometer tube suggests manual alignment, possibly set around **70°F**, a common ambient calibration point for liquid-in-glass thermometers.
+
+This reflects standard workshop calibration practices rather than automated factory calibration.
+
+## Temperature Range (Observed)
+
+- **Fahrenheit:** approximately –20°F to 120°F  
+- **Celsius:** approximately –30°C to 50°C
+
+Ranges derived from printed dial markings.  
+No supporting catalog or datasheet has been located to confirm official specifications.
+
+## Assembly Context (Inferred)
+
+This item appears consistent with Rhythm Industries’ small-shop manufacturing practices:
+
+- Components sourced or produced separately
+- Final assembly and calibration performed in-house
+- Functional, utilitarian design with minimal branding
+- Documentation likely maintained internally rather than exposed on the product
+
+---
+
+## Condition
+
+- Appears intact and functional
+- No visible damage to housing or tube
+- Liquid column continuous at time of observation
+
+---
+
+## Provenance
+
+Acquired via family connection.  
+Exact production date and original customer use are unknown.
+
+---
+
+## Archival Notes
+
+This record prioritizes **accuracy over completeness**.
+
+Where uncertainty exists, it is explicitly documented rather than resolved through assumption.  
+Future discoveries (catalogs, invoices, oral history) may refine or update this record.
+
+---
+
+*Precision creates trust.*
