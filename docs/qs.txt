@@ -1,0 +1,91 @@
+QUIET STEWARDSHIP SYSTEM
+(Fleet Mgmt ⇄ RIA)
+
+               ┌───────────────────────────────────────────────┐
+               │                 THE THING                     │
+               │     physical reality / object-in-world        │
+               │ VIN | serial | markings | material | condition│
+               └───────────────────────────────────────────────┘
+                                 │
+                                 │  (anchor: always point back to the thing)
+                                 v
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ CANONICAL RECORD (simple, human, durable)                                   │
+│ - 1 page per asset (RIA) / 1 log per vehicle (Fleet)                        │
+│ - boring formats: text, tables, binder sheets, photos w/ names              │
+│ - append-only mindset (events accumulate; facts rarely "rewrite")           │
+└─────────────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 │ (separate: FACTS vs NOTES vs UNKNOWN)
+                                 v
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ TRUTH STACK (layers, not a single source)                                   │
+│                                                                             │
+│  [FACTS]       what is directly observed                                    │
+│               - "A1072 marking exists"                                      │
+│               - stem length, thread, scale range                            │
+│               - odometer @ fill-up, service performed                       │
+│                                                                             │
+│  [UNKNOWN]     honest gaps (do not force closure)                           │
+│               - "A1072 meaning unknown"                                     │
+│               - part number uncertain / vendor label suspected              │
+│                                                                             │
+│  [NOTES]       interpretation + context (explicitly marked)                 │
+│               - provenance narrative                                        │
+│               - "Tacoma -> paper notebook (medium honors object)"           │
+│                                                                             │
+│  [EVIDENCE]    orbiting artifacts (linked, attributed, preserved)           │
+│               - receipts, listings, photos (with attribution + date)        │
+│               - binders, window stickers, manuals                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+
+
+IDENTITY SHAPES (do not collapse these)
+──────────────────────────────────────
+
+COLLECTION  ── why things belong together (lineage / family / set)
+  - Zanardi NSX parts set
+  - LFA lineage set
+  - Rhythm Industries product families
+
+ASSET (model / catalog identity)
+  - RI011-1 sight glass (as a type)
+  - Wall-mounted liquid-in-glass thermometer (as a type)
+  - "Tacoma" (as a managed object)
+
+INSTANCE (this exact specimen)
+  - VIN / serial / markings / acquired-from / time & place
+  - condition, location, ownership story
+  - "Zanardi #04 specific keep-with" rule
+
+
+LIFECYCLE (closed loop > hoarding)
+──────────────────────────────────
+
+ACQUIRE  ->  USE/SERVICE/CALIBRATE  ->  SURPLUS?  ->  DECIDE  ->  RELEASE
+  |             |                      |            |          |
+  |             |                      |            |          └─ gift / re-home w/ provenance intact
+  |             |                      |            |
+  |             |                      |            └─ keep (belongs-to: instance vs collection)
+  |             |                      |
+  |             |                      └─ duplicates become intentional (not clutter)
+  |             |
+  └─ record origin + evidence (attribution always)
+
+
+SYSTEM RULES (vectors / alignment)
+─────────────────────────────────
+1) Canon is simple. Evidence is layered. (link > embed)
+2) Facts ≠ Notes ≠ Unknown. Unknown stays unknown.
+3) Collection ≠ Asset ≠ Instance. Keep the split.
+4) Medium honors object. (Tacoma->paper ; RIA->plain text/git)
+5) Lifecycle completes. (acquire → decide → release is allowed)
+6) Quiet by default. No dashboards. No noise. No performative tracking.
+
+OUTPUTS (what the system *produces*)
+───────────────────────────────────
+- trust
+- future recall
+- provenance that survives time
+- easy re-homing
+- calm: "nothing behind the scenes"

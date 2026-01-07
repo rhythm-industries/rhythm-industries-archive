@@ -6,3 +6,9 @@ The archive exists to preserve reference, context, and continuity — not to spe
 
 → [[PD] Parts Desk](./[PD]%20Parts%20Desk/)  
 → See [ORIGIN.md](./ORIGIN.md) for background and context.
+
+## Quiet Stewardship System (Fleet Mgmt ⇄ RIA)
+
+<p align="center">
+  <img src="./docs/quiet-stewardship.min.svg" alt="Quiet Stewardship System (Fleet Mgmt ⇄ RIA)" width="1000">
+</p>

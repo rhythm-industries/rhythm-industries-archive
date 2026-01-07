@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="950" viewBox="0 0 1400 950">
+  <defs>
+    <style>
+      .t { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; fill: #111; }
+      .h { font-size: 22px; font-weight: 700; }
+      .s { font-size: 16px; }
+      .xs { font-size: 14px; }
+      .box { fill: #fff; stroke: #111; stroke-width: 2; rx: 14; ry: 14; }
+      .subbox { fill: #fff; stroke: #111; stroke-width: 1.5; rx: 12; ry: 12; }
+      .rule { stroke: #111; stroke-width: 2; }
+      .dash { stroke: #111; stroke-width: 2; stroke-dasharray: 8 6; }
+    </style>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <path d="M0,0 L10,3 L0,6 Z" fill="#111" />
+    </marker>
+  </defs>
+
+  <!-- Title -->
+  <text class="t h" x="40" y="50">QUIET STEWARDSHIP SYSTEM</text>
+  <text class="t s" x="40" y="80">(Fleet Mgmt ⇄ RIA)</text>
+
+  <!-- THE THING -->
+  <rect class="box" x="350" y="105" width="700" height="110" />
+  <text class="t h" x="380" y="145">THE THING</text>
+  <text class="t s" x="380" y="175">physical reality / object-in-world</text>
+  <text class="t s" x="380" y="200">VIN | serial | markings | material | condition</text>
+
+  <!-- Arrow down -->
+  <line class="rule" x1="700" y1="220" x2="700" y2="260" marker-end="url(#arrow)"/>
+
+  <!-- Canonical record -->
+  <rect class="box" x="170" y="270" width="1060" height="135" />
+  <text class="t h" x="200" y="310">CANONICAL RECORD (simple, human, durable)</text>
+  <text class="t s" x="200" y="340">• 1 page per asset (RIA) / 1 log per vehicle (Fleet)</text>
+  <text class="t s" x="200" y="365">• boring formats: plain text, tables, binder sheets, photos w/ names</text>
+  <text class="t s" x="200" y="390">• append-only mindset (events accumulate; facts rarely “rewrite”)</text>
+
+  <!-- Arrow down -->
+  <line class="rule" x1="700" y1="405" x2="700" y2="445" marker-end="url(#arrow)"/>
+
+  <!-- Truth stack -->
+  <rect class="box" x="170" y="455" width="1060" height="230" />
+  <text class="t h" x="200" y="495">TRUTH STACK (layers, not a single source)</text>
+
+  <rect class="subbox" x="200" y="515" width="500" height="150" />
+  <text class="t s" x="220" y="545">[FACTS]</text>
+  <text class="t xs" x="220" y="570">observed: “A1072 marking exists”</text>
+  <text class="t xs" x="220" y="592">measurements, specs, odometer, performed work</text>
+
+  <rect class="subbox" x="730" y="515" width="470" height="70" />
+  <text class="t s" x="750" y="545">[UNKNOWN]</text>
+  <text class="t xs" x="750" y="570">meaning unknown; part # uncertain; vendor label suspected</text>
+
+  <rect class="subbox" x="730" y="595" width="470" height="70" />
+  <text class="t s" x="750" y="625">[NOTES]</text>
+  <text class="t xs" x="750" y="650">interpretation + context; explicitly marked as such</text>
+
+  <text class="t s" x="200" y="710">[EVIDENCE] orbits the record (linked + attributed): receipts, listings, photos, manuals, binders</text>
+
+  <!-- Identity shapes -->
+  <text class="t h" x="40" y="760">IDENTITY SHAPES (do not collapse)</text>
+
+  <rect class="subbox" x="40" y="780" width="420" height="140" />
+  <text class="t s" x="60" y="812">COLLECTION</text>
+  <text class="t xs" x="60" y="837">why things belong together</text>
+  <text class="t xs" x="60" y="860">Zanardi NSX set; LFA lineage; RI product families</text>
+
+  <rect class="subbox" x="490" y="780" width="420" height="140" />
+  <text class="t s" x="510" y="812">ASSET</text>
+  <text class="t xs" x="510" y="837">model / catalog identity</text>
+  <text class="t xs" x="510" y="860">RI011-1 (type); wall thermometer (type); “Tacoma”</text>
+
+  <rect class="subbox" x="940" y="780" width="420" height="140" />
+  <text class="t s" x="960" y="812">INSTANCE</text>
+  <text class="t xs" x="960" y="837">this exact specimen</text>
+  <text class="t xs" x="960" y="860">VIN/serial/markings; acquired-from; condition; keep-with rules</text>
+
+  <!-- Lifecycle -->
+  <text class="t h" x="40" y="950">LIFECYCLE (closed loop > hoarding)    ACQUIRE → SERVICE/CALIBRATE → SURPLUS? → DECIDE → RELEASE</text>
+</svg>

@@ -1,0 +1,24 @@
+QUIET STEWARDSHIP (Fleet Mgmt ⇄ RIA)
+
+THE THING: object-in-world (VIN/serial/markings/material/condition)
+   |
+   v
+CANON: simple durable record (1 page/log; boring formats; append-only)
+
+TRUTH STACK:
+  [FACTS] observed
+  [UNKNOWN] honest gaps
+  [NOTES] interpretation (labeled)
+  [EVIDENCE] linked + attributed (orbits, never replaces)
+
+IDENTITY SHAPES (DO NOT COLLAPSE):
+  COLLECTION = why together
+  ASSET      = type / catalog identity
+  INSTANCE   = this specimen (keep-with rules)
+
+LIFECYCLE (closed loop > hoarding):
+  ACQUIRE → SERVICE/CALIBRATE → SURPLUS? → DECIDE → RELEASE (re-home w/ provenance)
+
+RULES:
+  canon simple; evidence layered; unknown stays unknown
+  medium honors object; quiet by default; no dashboards
