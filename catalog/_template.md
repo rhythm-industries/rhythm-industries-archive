@@ -1,7 +1,7 @@
 ---
-internal_correlation_id: PD-RI011-1-0001
+internal_correlation_id: PD-XXX
 packing_slip_note: |
-    Original Rhythm Industries RI011-1 sight glass, unused surplus.
+    Original Rhythm Industries ... unused surplus.
     Acquired intact from U.S. industrial inventory and documented as part of the Rhythm Industries Archive (2026).
 ---
 
@@ -11,7 +11,7 @@ packing_slip_note: |
 
 <small>Commonly mislisted as “RL011-1” in surplus catalogs.</small>
 
-<img src="RI011-1.jpg" alt="Image of RI011-1 — Hydraulic / Liquid Sight Glass" style="height:6in" />
+<img src="images/RI011-1.jpg" alt="Image of RI011-1 — Hydraulic / Liquid Sight Glass" style="height:6in" />
 
 ## Summary
 
