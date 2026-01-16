@@ -4,7 +4,7 @@ A working archive documenting components, artifacts, and industrial ephemera pro
 
 The archive exists to preserve reference, context, and continuity — not to speculate or embellish.
 
-→ [Catalog(./catalog/)  
+→ [Catalog](./catalog/)  
 → See [ORIGIN.md](./ORIGIN.md) for background and context.
 
 ## Quiet Stewardship System (Fleet Mgmt ⇄ RIA)
